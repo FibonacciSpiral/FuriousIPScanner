@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="resource">
+    <file>furious_emoji.png</file>
+  </qresource>
+</RCC>
